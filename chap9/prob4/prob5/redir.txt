@@ -1,0 +1,2 @@
+Hello, Redirection!
+This output is redirected to a file.
