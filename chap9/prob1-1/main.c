@@ -3,7 +3,7 @@
 
 int main() {
     pid_t pid;
-
+    
     printf("[%d] Process start\n", (int)getpid());
 
     pid = fork();
